@@ -1,3 +1,3 @@
 # helloWorld
 
-Dieses Projekt dient als EInführung in die Thematik Git und Javascript
+Dieses Projekt dient als Einführung in die Thematik Git und Javascript.
